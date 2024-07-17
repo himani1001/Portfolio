@@ -59,9 +59,9 @@
         </div>
         <div class="relative shadow-2xl grid place-items-center">
             <img
-                src={"images/file.png"}
+                src={"images/profile.jpg"}
                 alt="Profile image"
-                class="object-cover z-[2] max-h-[70vh]"
+                class="object-cover z-[2] max-h-[50vh] rounded-lg"
             />
         </div>
     </section>
